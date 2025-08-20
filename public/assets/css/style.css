@@ -1,0 +1,36 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.theme-navbar{
+    background-color:#0066CC;
+}
+
+.theme-navbar-light{
+    background-color: #91b5da;
+}
+.theme-orange-btn{
+    background-color: #FFA500;
+}
+
+.theme-orange-btn:hover{
+    background-color: #FFA500;
+    opacity:0.9;
+}
+
+.theme-green-btn{
+    background-color: #008000;
+}
+
+.theme-green-btn:hover{
+    background-color: #008000;
+    opacity:0.9;
+}
+
+.theme-games img:hover{
+    transform:scaleX(-1);
+}
+
+.theme-footer{
+    background-color: #0066CC;;
+}
